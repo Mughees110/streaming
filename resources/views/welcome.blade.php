@@ -242,7 +242,7 @@
             <li style=" text-align: left;"><a href="{{url('movies')}}" class="sidLi"><i class="fa fa-film" style="font-size:20px; color: white;"></i>&nbsp;&nbsp;&nbsp;<b>Movies</b></a></li><br><br>
             <li style="text-align: left;"><a href="{{url('softwares')}}" class="sidLi"><i class="fa fa-cogs" style="font-size:20px; color: white;"></i>&nbsp;&nbsp;&nbsp;<b>Softwares</b></a></li><br><br>
             <li style="text-align: left;"><a href="{{url('applications')}}" class="sidLi"><i class="fa fa-tv" style="font-size:20px; color: white;"></i>&nbsp;&nbsp;&nbsp;<b>Applications</b></a></li><br><br>
-            <li style="text-align: left;"><a href="{{url('games')}}" class="sidLi"><i class="fa fa-gamepad" style="font-size:20px; color: white;"></i>&nbsp;&nbsp;&nbsp;<b>Games</b></li><br>
+            <li style="text-align: left;"><a href="{{url('games')}}" class="sidLi"><i class="fa fa-gamepad" style="font-size:20px; color: white;"></i>&nbsp;&nbsp;&nbsp;<b>Games</b></a></li><br>
           </ul>
     </div>
         <div class="main" style="background-color: #0f1b33">
