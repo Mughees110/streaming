@@ -250,7 +250,7 @@
     <!-- home -->
     <section class="home home--bg">
         <div class="container">
-            <div class="row">
+            <div class="row" style="background-color: transparent;">
                 <div class="col-12">
                     <h1 class="home__title">MOVIES</h1>
 
