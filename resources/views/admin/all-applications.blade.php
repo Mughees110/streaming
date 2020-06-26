@@ -120,7 +120,7 @@
 		<!-- end sidebar nav -->
 		
 		<!-- sidebar copyright -->
-		<div class="sidebar__copyright">© 2020 Minviu. Designed & Developed by <a href="" target="_blank">Techelonstudios</a></div>
+		<div class="sidebar__copyright">© 2020 Minviu. <!--Designed & Developed by <a href="" target="_blank">Techelonstudios</a>--></div>
 		<!-- end sidebar copyright -->
 	</div>
 	<!-- end sidebar -->

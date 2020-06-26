@@ -384,7 +384,7 @@
                         <div class="col-12 col-sm-4 col-md-4">
                             <h6 class="footer__title">Contact</h6>
                             <ul class="footer__list">
-                                <li><a href="tel:+18002345678">+1 (800) 234-5678</a></li>
+                                <li><a href="tel:+18002345678">+34 234-5678</a></li>
                                 <li><a href="#"></a></li>
                             </ul>
                             <ul class="footer__social">
